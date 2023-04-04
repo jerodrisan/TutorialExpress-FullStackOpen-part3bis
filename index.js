@@ -22,12 +22,6 @@ const unknownEndpoint = (request, response) => {
 app.use(requestLogger)
 
 
-
-
-
-
-
-
 let notes = [
   {
     id: 1,
