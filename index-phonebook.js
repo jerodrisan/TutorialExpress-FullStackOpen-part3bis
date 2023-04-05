@@ -45,7 +45,7 @@ let persons = [
 
 
 app.get('/', (req, res) => {   
-   res.end('index-phonebookk ')    
+   res.end('index-phonebook ')    
 })
 
 app.get('/api/persons', (req, res)=>{
